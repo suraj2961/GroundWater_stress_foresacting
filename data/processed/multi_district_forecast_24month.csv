@@ -1,0 +1,145 @@
+district,date,predicted_GRACE_TWS_anomaly_cm,stress_category
+Bengaluru Urban,2026-06-01,7.72159,Semi-Critical
+Bengaluru Urban,2026-07-01,16.853256,Safe
+Bengaluru Urban,2026-08-01,17.686983,Safe
+Bengaluru Urban,2026-09-01,17.648737,Safe
+Bengaluru Urban,2026-10-01,24.320986,Safe
+Bengaluru Urban,2026-11-01,24.69192,Safe
+Bengaluru Urban,2026-12-01,16.157064,Safe
+Bengaluru Urban,2027-01-01,7.1195827,Semi-Critical
+Bengaluru Urban,2027-02-01,2.2617393,Semi-Critical
+Bengaluru Urban,2027-03-01,-7.608325,Critical
+Bengaluru Urban,2027-04-01,-11.624071,Over-Exploited
+Bengaluru Urban,2027-05-01,-8.340042,Critical
+Bengaluru Urban,2027-06-01,0.15156573,Critical
+Bengaluru Urban,2027-07-01,8.801414,Semi-Critical
+Bengaluru Urban,2027-08-01,9.649765,Semi-Critical
+Bengaluru Urban,2027-09-01,15.791515,Safe
+Bengaluru Urban,2027-10-01,20.381256,Safe
+Bengaluru Urban,2027-11-01,22.14215,Safe
+Bengaluru Urban,2027-12-01,13.788002,Safe
+Bengaluru Urban,2028-01-01,3.5977678,Semi-Critical
+Bengaluru Urban,2028-02-01,-1.3129395,Critical
+Bengaluru Urban,2028-03-01,-9.318228,Critical
+Bengaluru Urban,2028-04-01,-14.4457035,Over-Exploited
+Bengaluru Urban,2028-05-01,-8.920007,Critical
+Mysuru,2026-06-01,5.7005434,Semi-Critical
+Mysuru,2026-07-01,14.453542,Safe
+Mysuru,2026-08-01,15.061368,Safe
+Mysuru,2026-09-01,13.24801,Safe
+Mysuru,2026-10-01,15.903867,Safe
+Mysuru,2026-11-01,14.701544,Safe
+Mysuru,2026-12-01,7.858436,Semi-Critical
+Mysuru,2027-01-01,-3.6956043,Critical
+Mysuru,2027-02-01,-9.337447,Critical
+Mysuru,2027-03-01,-16.127232,Over-Exploited
+Mysuru,2027-04-01,-20.209007,Over-Exploited
+Mysuru,2027-05-01,-15.483203,Over-Exploited
+Mysuru,2027-06-01,0.5216742,Semi-Critical
+Mysuru,2027-07-01,3.1787186,Semi-Critical
+Mysuru,2027-08-01,11.338916,Safe
+Mysuru,2027-09-01,6.67789,Semi-Critical
+Mysuru,2027-10-01,15.001618,Safe
+Mysuru,2027-11-01,17.055882,Safe
+Mysuru,2027-12-01,5.8205996,Semi-Critical
+Mysuru,2028-01-01,-2.5021694,Critical
+Mysuru,2028-02-01,-9.716845,Critical
+Mysuru,2028-03-01,-17.149862,Over-Exploited
+Mysuru,2028-04-01,-19.233438,Over-Exploited
+Mysuru,2028-05-01,-15.737541,Over-Exploited
+Ballari,2026-06-01,14.183787,Semi-Critical
+Ballari,2026-07-01,23.796032,Safe
+Ballari,2026-08-01,26.826267,Safe
+Ballari,2026-09-01,25.816868,Safe
+Ballari,2026-10-01,29.205338,Safe
+Ballari,2026-11-01,27.72428,Safe
+Ballari,2026-12-01,20.647358,Safe
+Ballari,2027-01-01,7.454579,Semi-Critical
+Ballari,2027-02-01,1.697875,Semi-Critical
+Ballari,2027-03-01,-2.9337785,Critical
+Ballari,2027-04-01,-11.468017,Critical
+Ballari,2027-05-01,-8.854605,Critical
+Ballari,2027-06-01,12.173658,Semi-Critical
+Ballari,2027-07-01,21.229456,Safe
+Ballari,2027-08-01,22.597303,Safe
+Ballari,2027-09-01,24.032322,Safe
+Ballari,2027-10-01,23.979265,Safe
+Ballari,2027-11-01,18.948193,Safe
+Ballari,2027-12-01,11.54246,Semi-Critical
+Ballari,2028-01-01,1.2934902,Semi-Critical
+Ballari,2028-02-01,-4.980056,Critical
+Ballari,2028-03-01,-12.648652,Critical
+Ballari,2028-04-01,-16.175549,Over-Exploited
+Ballari,2028-05-01,-13.525107,Over-Exploited
+Uttara Kannada,2026-06-01,18.915194,Safe
+Uttara Kannada,2026-07-01,19.69199,Safe
+Uttara Kannada,2026-08-01,21.000872,Safe
+Uttara Kannada,2026-09-01,21.405512,Safe
+Uttara Kannada,2026-10-01,20.659838,Safe
+Uttara Kannada,2026-11-01,12.7795105,Semi-Critical
+Uttara Kannada,2026-12-01,9.3632765,Semi-Critical
+Uttara Kannada,2027-01-01,4.431106,Critical
+Uttara Kannada,2027-02-01,-1.2250364,Critical
+Uttara Kannada,2027-03-01,-6.126605,Over-Exploited
+Uttara Kannada,2027-04-01,-7.343621,Over-Exploited
+Uttara Kannada,2027-05-01,-6.1464896,Over-Exploited
+Uttara Kannada,2027-06-01,12.3523655,Semi-Critical
+Uttara Kannada,2027-07-01,18.821426,Safe
+Uttara Kannada,2027-08-01,18.616993,Safe
+Uttara Kannada,2027-09-01,16.823359,Safe
+Uttara Kannada,2027-10-01,15.691528,Safe
+Uttara Kannada,2027-11-01,11.708616,Semi-Critical
+Uttara Kannada,2027-12-01,6.1659055,Semi-Critical
+Uttara Kannada,2028-01-01,0.16985548,Critical
+Uttara Kannada,2028-02-01,-2.6470857,Critical
+Uttara Kannada,2028-03-01,-7.6944256,Over-Exploited
+Uttara Kannada,2028-04-01,-9.679575,Over-Exploited
+Uttara Kannada,2028-05-01,-4.865008,Over-Exploited
+Kalaburagi,2026-06-01,12.773468,Semi-Critical
+Kalaburagi,2026-07-01,27.78082,Safe
+Kalaburagi,2026-08-01,29.241995,Safe
+Kalaburagi,2026-09-01,27.574045,Safe
+Kalaburagi,2026-10-01,30.878048,Safe
+Kalaburagi,2026-11-01,17.548302,Safe
+Kalaburagi,2026-12-01,8.441683,Semi-Critical
+Kalaburagi,2027-01-01,3.4164174,Semi-Critical
+Kalaburagi,2027-02-01,-1.6427066,Critical
+Kalaburagi,2027-03-01,-10.00285,Critical
+Kalaburagi,2027-04-01,-13.567637,Critical
+Kalaburagi,2027-05-01,-11.324666,Critical
+Kalaburagi,2027-06-01,11.128998,Semi-Critical
+Kalaburagi,2027-07-01,24.20392,Safe
+Kalaburagi,2027-08-01,25.858585,Safe
+Kalaburagi,2027-09-01,26.145006,Safe
+Kalaburagi,2027-10-01,24.05205,Safe
+Kalaburagi,2027-11-01,11.883586,Semi-Critical
+Kalaburagi,2027-12-01,3.5968592,Semi-Critical
+Kalaburagi,2028-01-01,-1.6252997,Critical
+Kalaburagi,2028-02-01,-9.003695,Critical
+Kalaburagi,2028-03-01,-15.175271,Over-Exploited
+Kalaburagi,2028-04-01,-16.632559,Over-Exploited
+Kalaburagi,2028-05-01,-18.033655,Over-Exploited
+Vijayapura,2026-06-01,14.789307,Safe
+Vijayapura,2026-07-01,22.602516,Safe
+Vijayapura,2026-08-01,24.09932,Safe
+Vijayapura,2026-09-01,26.161312,Safe
+Vijayapura,2026-10-01,21.272907,Safe
+Vijayapura,2026-11-01,14.93828,Safe
+Vijayapura,2026-12-01,3.6794617,Semi-Critical
+Vijayapura,2027-01-01,-2.3848205,Critical
+Vijayapura,2027-02-01,-9.496361,Critical
+Vijayapura,2027-03-01,-14.328533,Over-Exploited
+Vijayapura,2027-04-01,-17.330467,Over-Exploited
+Vijayapura,2027-05-01,-17.227333,Over-Exploited
+Vijayapura,2027-06-01,9.898302,Semi-Critical
+Vijayapura,2027-07-01,16.96945,Safe
+Vijayapura,2027-08-01,20.582552,Safe
+Vijayapura,2027-09-01,16.86336,Safe
+Vijayapura,2027-10-01,16.587234,Safe
+Vijayapura,2027-11-01,7.3944263,Semi-Critical
+Vijayapura,2027-12-01,-2.761614,Critical
+Vijayapura,2028-01-01,-6.954235,Critical
+Vijayapura,2028-02-01,-13.789866,Over-Exploited
+Vijayapura,2028-03-01,-17.173767,Over-Exploited
+Vijayapura,2028-04-01,-21.518263,Over-Exploited
+Vijayapura,2028-05-01,-17.629467,Over-Exploited

@@ -1,0 +1,16 @@
+.venv/
+.sf/
+desktop.ini
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+*.nc
+*.tif
+*.h5
+data/raw/era5_2002_2025_extracted/
+scripts/era5_2002_2025_data/
+scripts/era5_2026_data/
+*.txt
+!requirements.txt
+archive/
